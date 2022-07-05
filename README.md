@@ -10,7 +10,7 @@ The task for the 5th module challenge is to create a simple calendar app that al
 
 repository: https://github.com/AdmiralCrunchy/Third_Party-Schedule_API_VT
 
-url:
+url: https://admiralcrunchy.github.io/Third_Party-Schedule_API_VT/
 
 ---
 
